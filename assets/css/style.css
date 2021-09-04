@@ -583,10 +583,11 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
+
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/pray-bg.jpg") top center;
+  background: url("../img/pray1-bg.jpeg") top center;
   background-size: cover;
   position: relative;
 }
